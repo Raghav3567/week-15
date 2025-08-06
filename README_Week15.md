@@ -60,11 +60,6 @@ pm.test("Response body contains userId", function () {
 - ✅ Exported Postman Collection (`.json`)  
   *(Postman → Click on your collection → 3 dots → Export)*
 
-- ✅ Screenshot of Test Results  
-  *(Example provided below for reference)*
 
 ---
 
-## 📷 Example Screenshot
-
-![Postman Test Screenshot](A_screenshot_of_Postman,_an_API_development_and_te.png)
